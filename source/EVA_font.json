@@ -1,0 +1,49 @@
+{
+  "Background": {
+    "Image": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 0
+    }
+  },
+  "Time": {
+    "Hours": {
+      "Tens": {
+        "X": 70,
+        "Y": 10,
+        "ImageIndex": 23,
+        "ImagesCount": 3
+      },
+      "Ones": {
+        "X": 70,
+        "Y": 60,
+        "ImageIndex": 11,
+        "ImagesCount": 10
+      }
+    },
+    "Minutes": {
+      "Tens": {
+        "X": 28,
+        "Y": 211,
+        "ImageIndex": 26,
+        "ImagesCount": 6
+      },
+      "Ones": {
+        "X": 51,
+        "Y": 211,
+        "ImageIndex": 1,
+        "ImagesCount": 10
+      }
+    }
+  },
+  "Date": {
+    "DayAmpm": {
+      "TopLeftX": 10,
+      "TopLeftY": 10,
+      "ImageIndexAMCN": 21,
+      "ImageIndexPMCN": 22,
+      "ImageIndexAMEN": 0,
+      "ImageIndexPMEN": 0
+    }
+  }
+}
