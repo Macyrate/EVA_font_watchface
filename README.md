@@ -16,3 +16,22 @@ Have fun!
 > Pebble版原作：[exe44/pebble-eva](https://github.com/exe44/pebble-eva)
 > 
 > 制作工具：[MB4 Resource pack/unpack](https://geekdoing.com/threads/mb4-resource-pack-unpack.1383/)
+
+-----
+
+If you cannot read 漢字 (Kanji) :
+* 朝　AM
+* 午　PM
+* 零　０
+* 壱　１
+* 弐　２
+* 参　３
+* 四　４
+* 伍　５
+* 六　６
+* 七　７
+* 八　８
+* 九　９
+* 時　Hour
+* 分　Minute
+* 第　No.
