@@ -1,4 +1,7 @@
 # EVA_font_watchface
+
+![](https://img.shields.io/badge/downloads-50%2B-green)
+
 EVA font style watch face for Mi Band 4.
 
 这是一个使用EVA风格显示时间的简单表盘，为`小米手环4`打造。
