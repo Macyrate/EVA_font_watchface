@@ -1,6 +1,6 @@
 # EVA_font_watchface
 
-![](https://img.shields.io/badge/downloads-50%2B-green)
+![](https://img.shields.io/badge/downloads-170%2B-green)
 
 EVA font style watch face for Mi Band 4.
 
