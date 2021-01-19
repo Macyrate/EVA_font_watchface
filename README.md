@@ -6,7 +6,7 @@ EVA font style watch face for Mi Band 4.
 
 这是一个使用EVA风格显示时间的简单表盘，为`小米手环4`打造。
 
-![预览](https://raw.githubusercontent.com/Macyrate/EVA_font_watchface/master/else/EVA_font_packed_animated.gif)
+![预览](https://i.loli.net/2020/01/12/lPeLST9Rt4iHQr7.gif)
 
 我曾在`Pebble`上使用过[EVA表盘](https://apps.rebble.io/zh_CN/application/529ab1b6d17b5033ba000033)，它令人印象深刻。
 
